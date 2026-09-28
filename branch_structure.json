@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/platform-wallet-id-uuid-validation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/platform-wallet-id-uuid-validation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/platform-wallet-id-uuid-validation",
+    "origin"
+  ]
+}
